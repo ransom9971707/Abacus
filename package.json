@@ -1,0 +1,11 @@
+{
+  "name": "lumen-dental-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Dental clinic website. Static, fast, no database required.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
